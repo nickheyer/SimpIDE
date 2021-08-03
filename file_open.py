@@ -1,4 +1,3 @@
-import json
 from PySimpleGUI.PySimpleGUI import MenubarCustom, Titlebar
 import PySimpleGUI as sg
 import os
