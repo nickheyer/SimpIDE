@@ -1,3 +1,4 @@
+![icon](https://user-images.githubusercontent.com/60236014/128037484-b116307a-5e76-4d20-b213-a7b3bd89030d.png)
 # SimpIDE
 A super-simple IDE.
 
