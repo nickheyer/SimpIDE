@@ -1,3 +1,5 @@
+#DEPRECIATED, AT ONE POINT SIMP_IDE WAS TITLED MAIN.PY ~ Do Not Use
+
 from tkcode import CodeEditor
 from file_open import fileopen
 import tkinter as tk
