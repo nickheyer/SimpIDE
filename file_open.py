@@ -1,3 +1,5 @@
+#DEPRECIATED, OLD METHOD OF LOADING FILES / FILE INTERFACE
+
 from PySimpleGUI.PySimpleGUI import MenubarCustom, Titlebar
 import PySimpleGUI as sg
 import os
