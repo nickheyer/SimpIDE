@@ -8,3 +8,4 @@ This IDE uses Tkinter libraries, as well as publically available "lexers" which 
 Installation:
 Download and run SimpIDE_Setup.exe
 
+If you plan on using the C++ code runner, please download the official g++ compiler here (https://www3.cs.stonybrook.edu/~alee/g++/g++.html) or elsewhere.
