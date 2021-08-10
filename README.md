@@ -9,3 +9,6 @@ Installation:
 Download and run SimpIDE_Setup.exe
 
 If you plan on using the C++ code runner, please download the official g++ compiler here (https://www3.cs.stonybrook.edu/~alee/g++/g++.html) or elsewhere.
+Same goes for python (https://www.python.org/downloads/)
+
+FALSE AV TRIGGER: As a result of this app not being signed (i'd rather not pay $400/yr) and because it executes shell commands to run python or compile/run c++ programs, it may be flagged by your av software.
